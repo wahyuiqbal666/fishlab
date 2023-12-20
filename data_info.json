@@ -1,0 +1,170 @@
+[
+  {
+    "id": "arw01",
+    "name": "Ikan Arwana",
+    "habitats": "Air Tawar",
+    "information": "Ikan Arwana, (Scleropages formosus/Arowana dalam bahasa Inggris), termasuk dalam kelompok karnivora. Dalam kehidupan alaminya, ikan Arwana memangsa berbagai jenis mangsa, seperti ikan kecil, serangga, dan bahkan kelelawar yang berada di sekitarnya. \nIkan Arwana memiliki tubuh yang panjang dan ramping dengan sisik bersinar yang memberikan kesan kilauan perak. Tubuhnya dikenal tahan lama dan aerodinamis, memungkinkan mereka untuk berenang dengan cepat di air. Ikan Arwana tidak mengandung racun dan aman untuk dikonsumsi. Meskipun biasanya dijadikan ikan hias, beberapa komunitas di Asia memanfaatkan ikan Arwana sebagai sumber protein dengan memasaknya. Nutrisi yang terkandung dalam daging ikan Arwana dapat memberikan asupan protein yang baik untuk kesehatan manusia.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Arwana/arwana%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "bnd02",
+    "name": "Ikan Bandeng",
+    "habitats": "Air Payau",
+    "information": "Ikan Bandeng (Chanos chanos/Milkfish dalam bahasa Inggris) termasuk dalam kategori herbivora. Makanannya utamanya terdiri dari tumbuhan atau alga laut. Secara alami, ikan Bandeng memakan fitoplankton, zooplankton, serta detritus organik di lingkungan airnya. \nIkan Bandeng memiliki tubuh yang relatif panjang dan ramping dengan sisik kecil yang bersinar. Tubuhnya ditandai oleh warna perak kebiruan yang melengkung di bagian atasnya. Salah satu ciri khasnya adalah adanya sirip punggung yang panjang dan dua sirip dubur yang juga mencuat. Ikan Bandeng tidak bersifat beracun dan merupakan ikan yang umumnya dikonsumsi. Daging ikan Bandeng memiliki nilai nutrisi yang tinggi, mengandung protein, asam lemak omega-3, vitamin, dan mineral seperti fosfor dan selenium. Konsumsi ikan Bandeng secara teratur dapat memberikan manfaat bagi kesehatan jantung, pertumbuhan sel, dan fungsi sistem saraf.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Bandeng/bandeng%20(10).jpg?authuser=2"
+  },
+  {
+    "id": "bw03",
+    "name": "Ikan Bawal putih",
+    "habitats": "Air Payau",
+    "information": "Ikan Bawal Putih (Lates calcarifer/Barramundi dalam bahasa Inggris) termasuk dalam kelompok omnivora. Secara umum, ikan Bawal Putih memakan plankton, krustasea, ikan kecil, dan detritus organik. \nIkan Bawal Putih memiliki bentuk tubuh menyerupai bentuk belah ketupat dengan ukuran tubuh maksimal 15-20 cm. Tubuhnya dilengkapi dengan sirip punggung, sirip dubur, dan sirip ekor yang proporsional. Tubuh Ikan Bawal Putih berwarna putih perak dan bagian atas tubuh dan siripnya berwarna keabu-abuan. Ikan Bawal Putih tidak bersifat beracun dan merupakan ikan yang umumnya dikonsumsi. Dagingnya kaya akan nutrisi, termasuk Omega-3, vitamin (B2 dan D), kalsium, fosfor, dan mineral. Selain itu, ikan bawal juga mengandung asam lemak tak jenuh yang membuatnya mudah untuk dapat dicerna oleh tubuh dengan sempurna.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Bawal%20Putih/bawal%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "bln04",
+    "name": "Ikan Belanak",
+    "habitats": "Air Payau",
+    "information": "Ikan Belanak (Mugil cephalus/Bluespot Mullet dalam bahasa Inggris) termasuk dalam kelompok herbivora. Makanan utamanya terdiri dari tumbuhan atau alga laut. Ikan Belanak cenderung memakan alga, detritus organik, dan mikroorganisme di lingkungan perairan. \nIkan Belanak memiliki tubuh yang silindris dan agak gepeng dengan sisik yang halus dan warna tubuh yang bervariasi antara keperakan hingga keabu-abuan. Ciri khasnya adalah adanya sepasang sirip punggung yang ditempatkan di bagian belakang tubuh. Ikan Belanak umumnya tidak beracun dan merupakan ikan yang biasa dikonsumsi. Dagingnya mengandung nutrisi yang baik, terutama protein, asam lemak omega-3, vitamin B, dan mineral seperti selenium dan fosfor. Konsumsi ikan Belanak dapat memberikan manfaat bagi kesehatan jantung, penglihatan, dan pertumbuhan sel, menjadikannya pilihan makanan yang sehat dan bergizi.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Belanak/belanak%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "btk05",
+    "name": "Ikan Betok",
+    "habitats": "Air Tawar",
+    "information": "Ikan Betok (Anabas testudineus/Climbing Perch dalam bahasa Inggris) termasuk dalam kelompok omnivora. Secara umum, ikan Betok memakan serangga, larva, dan berbagai jenis plankton yang ditemukan di sekitar habitat airnya.\nIkan Betok memiliki tubuh yang panjang dan ramping dengan sisik kecil dan licin. Ciri khas yang membedakan ikan Betok adalah adanya sirip punggung yang panjang dan memiliki duri yang dapat digerakkan, memungkinkan ikan ini dapat bergerak di daratan dan bahkan dapat memanjat. Ikan Betok umumnya tidak bersifat beracun dan merupakan ikan yang aman untuk dikonsumsi. Dagingnya mengandung nutrisi penting seperti protein, asam lemak omega-3, vitamin B12, dan mineral seperti selenium dan fosfor. Konsumsi ikan Betok dapat memberikan manfaat bagi pertumbuhan dan perkembangan tubuh, menjadikannya sebagai sumber protein yang baik untuk kesehatan manusia.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Betok/betok%20(10).jpg?authuser=2"
+  },
+  {
+    "id": "ckl06",
+    "name": "Ikan Cakalang",
+    "habitats": "Air Laut",
+    "information": "Ikan Cakalang (Katsuwonus pelamis/Skipjack Tuna dalam bahasa Inggris) termasuk dalam kelompok karnivora. Skipjack Tuna biasanya memangsa ikan-ikan kecil, krustasea, dan cephalopoda di perairan terbuka. \nIkan Cakalang memiliki tubuh yang memanjang, ramping, dan aerodinamis dengan warna tubuh yang berkilau kebiruan di bagian atasnya dan perut yang lebih terang. Sirip dorsal dan analnya berada di belakang tubuhnya, memberikan kelebihan dalam berenang di perairan terbuka. Ikan Cakalang umumnya tidak beracun dan dapat dikonsumsi oleh manusia. Dagingnya mengandung protein tinggi, asam lemak omega-3, vitamin B, dan mineral seperti selenium dan fosfor. Kandungan nutrisi yang tinggi menjadikan ikan Cakalang sebagai sumber pangan yang bernilai gizi, yang dapat mendukung kesehatan jantung, otak, dan sistem saraf manusia.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Cakalang/cakalang%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "dri07",
+    "name": "Ikan Dori",
+    "habitats": "Air Laut",
+    "information": "Ikan Dori (Zeus faber/John Dory dalam bahasa Inggris) termasuk dalam kelompok karnivora. John Dory dikenal sebagai pemangsa yang lihai, memakan ikan-ikan kecil, udang, dan moluska di perairan dangkal hingga sedalam beberapa ratus meter. \nIkan Dori memiliki tubuh yang datar dan cakram, dengan kepala besar yang ditandai oleh mata besar di bagian atas dan moncong panjang. Tubuhnya berwarna keperakan dengan bercak-bercak gelap yang dapat membantu menyamarkan ikan ini di lingkungan laut. Ikan dori umumnya aman untuk dikonsumsi dan tidak dianggap beracun. Dagingnya lembut dan enak, mengandung protein, asam lemak omega-3, vitamin B, dan mineral seperti fosfor dan selenium. Konsumsi ikan Dori dapat memberikan manfaat bagi kesehatan jantung, penglihatan, dan perkembangan otak, menjadikannya pilihan makanan laut yang populer dan bernutrisi.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Dori/dori%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "gbs08",
+    "name": "Ikan Gabus",
+    "habitats": "Air Tawar",
+    "information": "Ikan Gabus (Channa striata/Snakehead Fish dalam bahasa Inggris) termasuk dalam kelompok karnivora. Snakehead Fish dikenal sebagai predator yang agresif, memangsa ikan kecil, serangga, dan krustasea di perairan air tawar. \nIkan Gabus memiliki tubuh yang silindris dan agak memanjang, dengan kepala besar dan moncong yang tumpul. Warna tubuhnya bervariasi, tetapi biasanya cenderung kecoklatan atau hijau keabu-abuan. Beberapa spesies ikan Gabus memiliki corak dan belang khas yang dapat membantu menyamarkan mereka di antara tanaman air. Secara umum, ikan Gabus tidak bersifat beracun dan merupakan ikan yang dapat dikonsumsi. Dagingnya mengandung protein, asam lemak omega-3, vitamin D, dan mineral seperti fosfor. Meskipun popularitasnya sebagai target ikan olahraga, beberapa komunitas di Asia mengonsumsi ikan Gabus sebagai sumber protein, menyediakan nutrisi yang baik untuk pertumbuhan dan perkembangan tubuh manusia.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Gabus/gabus%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "grm09",
+    "name": "Ikan Gurame",
+    "habitats": "Air Tawar",
+    "information": "Ikan Gurame (Osphronemus goramy/Carp Fish dalam bahasa Inggris. Ikan ini termasuk dalam kelompok omnivora. Gurame cenderung memakan alga, plankton, serangga kecil, dan detritus organik di perairan air tawar. \nIkan Gurame memiliki tubuh yang pipih dan memanjang dengan sisik yang halus dan berkilau. Sirip punggungnya sering kali lebih panjang dan berwarna mencolok, menambah daya tarik visual ikan ini. Gurame umumnya tidak bersifat beracun dan merupakan ikan yang umumnya dikonsumsi. Dagingnya kaya akan nutrisi, mengandung protein tinggi, asam lemak omega-3, vitamin B, dan mineral. Konsumsi ikan Gurame dapat memberikan manfaat bagi kesehatan jantung, pertumbuhan sel, dan fungsi sistem saraf. Oleh karena itu, ikan Gurame menjadi pilihan yang populer di banyak kawasan, baik sebagai ikan konsumsi maupun ikan hias.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Gurame/gurame%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "kkm10",
+    "name": "Ikan Kakap Merah",
+    "habitats": "Air Laut",
+    "information": "Nama latin ikan kakap merah adalah Lutjanus sebae. Dalam bahasa Inggris, ikan kakap merah dikenal sebagai  Red Emperor Snapper. Ikan kakap merah biasanya ditemukan di perairan hangat dan tropis, terutama di sekitar terumbu karang di Samudra Hindia dan Pasifik Barat. Mereka sering kali hidup di kedalaman yang cukup dalam. Ikan kakap merah termasuk dalam kategori karnivora, dan makanan utamanya mencakup ikan kecil, udang, dan krustasea lainnya.\nCiri fisik ikan kakap merah mencakup tubuh yang oval, sirip punggung yang panjang, dan warna tubuh yang khas, yaitu merah tua atau oranye. Beberapa spesies kakap merah memiliki corak atau bintik-bintik pada tubuhnya. Ikan kakap merah biasanya dikonsumsi dan dianggap sebagai ikan laut yang lezat. Dagingnya memiliki tekstur yang baik dan rasa yang khas. Kandungan gizi ikan kakap merah termasuk protein, omega-3, vitamin D, vitamin B12, selenium, dan fosfor. Konsumsi ikan kakap merah dalam batas yang sehat dapat memberikan manfaat nutrisi bagi tubuh.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Kakap%20Merah/kakap%20merah%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "kkp11",
+    "name": "Ikan Kakap Putih",
+    "habitats": "Air Payau",
+    "information": "Nama latin ikan kakap putih bervariasi tergantung pada spesiesnya. Salah satu contoh adalah Lutjanus analis. Dalam bahasa Inggris, ikan kakap putih bisa disebut sebagai  Mutton Snapper. Ikan kakap putih biasanya ditemukan di perairan tropis dan hangat di sekitar terumbu karang dan perairan pantai. Mereka cenderung hidup di kedalaman yang beragam, dari perairan dangkal hingga yang lebih dalam. Ikan kakap putih biasanya bersifat karnivora. Makanannya meliputi ikan kecil, krustasea, dan invertebrata laut lainnya.\nCiri fisik ikan kakap putih mencakup tubuh yang ramping dengan warna yang bervariasi dari merah muda hingga merah oranye. Beberapa spesies memiliki garis-garis atau bintik-bintik pada tubuhnya. Ikan kakap putih umumnya dikonsumsi dan dianggap sebagai ikan yang enak. Dagingnya memiliki tekstur yang baik dan rasa yang lezat. Kandungan gizi ikan kakap putih mencakup protein, omega-3, vitamin D, vitamin B12, selenium, dan fosfor. Konsumsi ikan kakap putih dalam batas yang sehat dapat memberikan manfaat nutrisi bagi tubuh.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Kakap%20Putih/kakap%20putih%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "kmb12",
+    "name": "Ikan Kembung",
+    "habitats": "Air Laut",
+    "information": "Ikan kembung (Scomber scombrus/Atlantic mackerel dalam bahasa inggris) biasanya ditemukan di perairan Atlantik Utara dan merupakan ikan migran yang berenang dalam kelompok besar. Habitat mereka mencakup perairan terbuka di lepas pantai dan perairan pesisir. Ikan kembung termasuk ikan pemakan plankton dan krustasea kecil, sehingga dapat dianggap sebagai ikan omnivora.\nCiri fisik ikan kembung mencakup tubuh yang ramping, sirip punggung yang terletak di tengah tubuh, dan corak garis-garis gelap di punggungnya. Ikan ini memiliki daging yang lezat dan umumnya dikonsumsi. Daging ikan kembung mengandung nutrisi penting seperti protein, omega-3, vitamin B12, selenium, dan iodin. Konsumsi ikan kembung dapat memberikan manfaat bagi kesehatan jantung dan otak, serta membantu memenuhi kebutuhan nutrisi harian.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Kembung/kembung%20(12).jpg?authuser=2"
+  },
+  {
+    "id": "krp13",
+    "name": "Ikan Kerapu",
+    "habitats": "Air Payau",
+    "information": "Nama latin ikan kerapu bervariasi tergantung pada spesiesnya, tetapi salah satu contoh adalah Epinephelus spp. Dalam bahasa Inggris, ikan kerapu dikenal sebagai grouper. Ikan kerapu biasanya ditemukan di lingkungan terumbu karang di perairan hangat, termasuk di daerah Pasifik, Atlantik, dan Hindia. Mereka biasanya hidup di perairan yang dangkal dan berbatu. Ikan kerapu adalah pemangsa, dan kebanyakan spesiesnya bersifat karnivora. Makanan mereka mencakup ikan kecil, udang, kepiting, dan hewan kecil lainnya.\nCiri fisik ikan kerapu melibatkan tubuh yang besar dan berat, kepala yang besar, serta mulut yang lebar. Beberapa spesies memiliki warna dan pola yang menarik di tubuhnya. Ikan kerapu biasanya dikonsumsi dan dianggap sebagai ikan yang lezat. Dagingnya tebal dan memiliki rasa yang khas. Namun, beberapa spesies ikan kerapu mungkin rentan terhadap overfishing, sehingga penting untuk mematuhi praktik perikanan yang berkelanjutan. Kandungan gizi ikan kerapu dapat mencakup protein, omega-3, vitamin D, vitamin B12, selenium, dan fosfor. Konsumsi ikan kerapu dalam batas yang sehat dapat memberikan manfaat nutrisi bagi tubuh.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Kerapu/kerapu%20(10).jpg?authuser=2"
+  },
+  {
+    "id": "kpr14",
+    "name": "Ikan Kiper",
+    "habitats": "Air Payau",
+    "information": "Ikan Kiper (Scatophagus argus/Spotted Scat Fish dalam bahasa Inggris) termasuk dalam kelompok omnivora. Secara umum, ikan Kiper memakan berbagai jenis makanan, termasuk alga, plankton, serangga, dan detritus organik yang ditemukan di perairan air tawar dan air payau tempat mereka hidup. \nIkan Kiper memiliki tubuh yang cenderung pipih dengan warna dasar keperakan hingga kecoklatan dan dihiasi oleh bercak-bercak hitam atau belang. Sirip punggungnya terletak di bagian tengah tubuh, dan warnanya seringkali lebih terang dibandingkan dengan tubuh. Umumnya, ikan Kiper tidak dianggap beracun dan aman untuk dikonsumsi. Dagingnya mengandung nutrisi penting seperti protein, asam lemak omega-3, vitamin B12, dan mineral seperti fosfor dan selenium.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Kiper/kiper%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "lle15",
+    "name": "Ikan Lele",
+    "habitats": "Air Tawar",
+    "information": "Ikan Lele (Clarias gariepinus/Catfish dalam bahasa Inggris) termasuk dalam kelompok omnivora. Ikan Lele secara alami memakan serangga, cacing, ikan kecil, dan sisa-sisa organik di dasar perairan. \nIkan Lele memiliki tubuh yang panjang, silindris, dan licin dengan sisik kecil yang tertanam di kulitnya. Bagian kepala ikan Lele dilengkapi dengan sungut-sungut yang peka terhadap rangsangan lingkungan sekitar. Meskipun beberapa spesies ikan Lele dapat memiliki duri punggung yang tajam, umumnya ikan Lele tidak beracun dan aman untuk dikonsumsi. Daging ikan Lele kaya akan nutrisi, terutama protein, asam lemak omega-3, vitamin D, vitamin B12, dan mineral seperti fosfor dan selenium. Konsumsi ikan Lele dapat memberikan manfaat bagi pertumbuhan dan perkembangan tubuh manusia, serta mendukung kesehatan jantung dan sistem saraf.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Lele/lele%20(13).jpg?authuser=2"
+  },
+  {
+    "id": "kms16",
+    "name": "Ikan Mas",
+    "habitats": "Air Tawar",
+    "information": "Ikan mas (Cyprinus carpio/Common Carp dalam bahasa inggris) memiliki habitat yang bervariasi dan dapat ditemukan di perairan tawar seperti sungai, danau, dan kolam. Ikan mas termasuk omnivora, yang berarti mereka memakan berbagai jenis makanan, termasuk tanaman, serangga, cacing, dan plankton. Makanan utama mereka biasanya tergantung pada ketersediaan dan jenis habitat di mana mereka hidup.\nCiri fisik ikan mas mencakup tubuh yang ramping, sirip dorsal yang panjang, dan warna tubuh yang bervariasi dari keemasan hingga kecoklatan. Mereka juga memiliki jengger berjumlah empat. Ikan mas dapat dikonsumsi. Mengenai kandungan gizi, ikan mas kaya akan protein dan asam lemak omega-3. Mereka juga mengandung berbagai vitamin dan mineral, seperti vitamin D, vitamin B12, selenium, dan fosfor. Konsumsi ikan mas dapat memberikan manfaat bagi kesehatan jantung dan otak, serta membantu memenuhi kebutuhan nutrisi tubuh.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Mas/mas%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "mjr17",
+    "name": "Ikan Mujair",
+    "habitats": "Air Payau",
+    "information": "Ikan Mujair (Oreochromis mossambicus) atau dalam bahasa inggris dikenal Mozambique tilapia atau Red tilapia (tergantung pada variasi warna dan jenisnya), dapat ditemukan di perairan tawar, termasuk sungai, danau, dan kolam. Mereka dapat hidup di berbagai kondisi air, termasuk air payau. Mujair termasuk ikan omnivora, yang berarti mereka memakan berbagai jenis makanan. Makanan mereka mencakup plankton, alga, detritus, dan serangga kecil. Mereka juga dapat memakan makanan buatan yang diberikan oleh manusia dalam budidaya ikan.\nCiri fisik ikan mujair melibatkan tubuh yang pipih dan bersisik, dengan warna yang bervariasi tergantung pada jenisnya. Mereka memiliki sirip dubur yang panjang dan sirip ekor yang sedikit bercabang.  Ikan mujair adalah ikan yang umum dikonsumsi. Dagingnya dianggap lezat dan memiliki tekstur yang baik. Kandungan gizi ikan mujair mencakup protein, omega-3, vitamin, dan mineral seperti fosfor dan selenium. Konsumsi ikan mujair dapat menjadi bagian dari pola makan seimbang dan memberikan manfaat nutrisi.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Mujair/mujair%20(10).jpg?authuser=2"
+  },
+  {
+    "id": "ptn18",
+    "name": "Ikan Patin",
+    "habitats": "Air Tawar",
+    "information": "Ikan Patin (Pangasius pangasius/Pangasius Catfish dalam bahasa inggris) umumnya merupakan ikan air tawar yang dapat ditemukan di sungai-sungai, danau, rawa, dan saluran air tenang. Ikan patin termasuk omnivora, yang berarti mereka memakan berbagai jenis makanan misalnya plankton, larva serangga, ikan kecil, dan detritus.\nTubuh ikan patin umumnya silindris dan licin. Mereka memiliki sirip dada yang besar dan kepala datar. Warna tubuhnya bervariasi, umumnya cenderung keabu-abuan atau kecokelatan. Ikan ini dapat dikonsumsi dan memiliki banyak manfaat. Protein tingginya baik untuk pertumbuhan, mengandung asam lemak omega-3 untuk kesehatan jantung dan otak, memiliki vitamin A,D dan mineral seperti fosfor dan selenium, memiliki lemak jenuh yang rendah sehingga cocok untuk pemeliharaan keseimbangan kolesterol dalam tubuh, dan merupakan sumber zat besi yang baik",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Patin/patin%20(14).jpg?authuser=2"
+  },
+  {
+    "id": "slm19",
+    "name": "Ikan Salmon",
+    "habitats": "Air Laut",
+    "information": "Ikan salmon (Salmo salar [Salmon Atlantik], Oncorhynchus spp [Salmon Pasifik]) dapat ditemukan di perairan laut dan air tawar, terutama di Atlantik Utara dan Pasifik Utara. Mereka bermigrasi antara sungai-sungai tempat mereka lahir dan lautan sebagai bagian dari siklus hidup reproduksi mereka.  Salmon umumnya adalah omnivora.  Saat mereka berada di laut, mereka memakan ikan kecil, krustasea, dan plankton. Ketika kembali ke sungai untuk berkembang biak, mereka mungkin berpindah menjadi herbivora.\nTubuh salmon biasanya berbentuk silinder dan dilengkapi dengan sirip ekor yang bifurkasi. Warna tubuhnya bervariasi dari merah hingga perak tergantung pada spesies dan tahap siklus hidupnya. Salmon adalah ikan yang sangat populer untuk dikonsumsi manusia. Kandungan gizi yang pada salmon yaitu asam lemak omega-3, protein yang tinggi, vitamin D, selenium dan B12. Konsumsi salmon dapat mendukung kesehatan jantung, meningkatkan fungsi otak, dan mengurangi risiko beberapa penyakit kronis.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Salmon/salmon%20(18).jpg?authuser=2"
+  },
+  {
+    "id": "srd20",
+    "name": "Ikan Sarden",
+    "habitats": "Air Laut",
+    "information": "Ikan sarden (Sardinella spp/Sardine dalam bahasa inggris) dapat ditemukan di perairan laut tropis dan subtropis di seluruh dunia. Mereka sering bergerombol di perairan yang kaya plankton. Sarden umumnya adalah omnivora. Mereka memakan plankton, larva ikan, dan organisme kecil lainnya di perairan laut.\nIkan sarden umumnya memiliki tubuh yang kecil dan ramping dengan sisik kecil. Warna tubuhnya dapat bervariasi tergantung pada spesies, namun seringkali mereka memiliki warna keperakan atau kebiruan. Sarden adalah ikan yang sangat umum dikonsumsi manusia dan sering dijual dalam kaleng sebagai sarden kalengan. Ikan sarden merupakan sumber protein hewani yang baik. Mengandung asam lemak omega-3, yang baik untuk kesehatan jantung dan otak. Kaya akan vitamin dan mineral, termasuk vitamin B12, vitamin D, kalsium, dan selenium.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Sarden/sarden%20(11).jpg?authuser=2"
+  },
+  {
+    "id": "sdt21",
+    "name": "Ikan Sidat",
+    "habitats": "Air Tawar",
+    "information": "Ikan sidat (Anguilla spp/ Eel dalam bahasa inggris) dapat ditemukan di berbagai jenis perairan, termasuk sungai, danau, dan laut. Beberapa spesies sidat mengalami siklus migrasi yang mencakup perjalanan panjang antara air tawar dan laut. Sidat umumnya adalah omnivora. Mereka dapat memakan ikan kecil, krustasea, dan organisme kecil lainnya. Beberapa spesies sidat juga dapat memakan plankton.\nTubuh sidat biasanya silindris dan licin, dengan kulit yang kaya lendir. Mereka memiliki sirip yang bersambung sepanjang tubuh, dan kulit mereka dapat bervariasi dari warna gelap hingga cerah tergantung pada spesies dan lingkungan tempat mereka hidup. Sidat adalah ikan yang umumnya dikonsumsi manusia dan diolah menjadi berbagai hidangan. Kandungan gizi pada ikan sidat diantaranya adalah protein, vitamin A, vitamin D, fosfor, selenium, dan asam lemak omega-3.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Sidat/sidat%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "tgr22",
+    "name": "Ikan Tenggiri",
+    "habitats": "Air Laut",
+    "information": "Ikan tenggiri (Scomberomorus spp/Spanish Mackerel atau King Mackerel dalam bahasa inggris) dapat ditemukan di perairan tropis dan subtropis, terutama di laut. Mereka biasanya terdapat di dekat pantai dan daerah yang kaya akan plankton dan ikan kecil. Tenggiri umumnya adalah karnivor. Makanan mereka mencakup ikan kecil, udang, dan krustasea lainnya.\nTubuh tenggiri biasanya ramping dan aerodinamis, dengan warna yang bervariasi dari biru kehijauan hingga perak. Sirip punggungnya cukup tinggi, dan giginya tajam. Ikan tenggiri adalah ikan yang umum dikonsumsi. Tenggiri merupakan sumber protein hewani yang baik. Mengandung asam lemak omega-3, yang baik untuk kesehatan jantung dan otak. Kaya akan vitamin D, penting untuk kesehatan tulang. Sumber vitamin B12 yang baik, mengandung mineral seperti selenium dan fosfor.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Tenggiri/tenggiri%20(1).jpg?authuser=2"
+  },
+  {
+    "id": "tkl23",
+    "name": "Ikan Tongkol",
+    "habitats": "Air Laut",
+    "information": "Ikan tongkol (Auxis spp/ Skipjack Tuna atau Oceanic Bonito dalam bahasa inggris) biasanya dapat ditemukan di perairan laut tropis dan subtropis di seluruh dunia. Mereka sering bermigrasi dan terutama berada di dekat permukaan air. Tongkol adalah ikan karnivor yang memakan ikan kecil, krustasea, dan cephalopoda (hewan invertebrata seperti cumi-cumi dan gurita).\nTubuh tongkol umumnya silindris dan ramping dengan punggung yang kebiru-biruan dan perut yang lebih keperakan. Mereka memiliki sirip punggung yang panjang dan sirip ekor yang bercagak. Ikan tongkol dapat dikonsumsi. Pilihan konsumsi ikan tongkol meliputi tongkol segar, kalengan, atau produk olahan dari tongkol. Kandungan gizinya beragam seperti protein yang tinggi, asam lemak omega-3, vitamin D, selenium dan fosfor.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Tongkol/tongkol%20(12).jpg?authuser=2"
+  },
+  {
+    "id": "tna24",
+    "name": "Ikan Tuna",
+    "habitats": "Air Laut",
+    "information": "Ikan tuna (Thunnus spp/ Tuna dalam bahasa inggris) dapat ditemukan di perairan laut tropis dan subtropis di seluruh dunia. Mereka sering bermigrasi jauh dan mendalam dalam mencari makanan. Tuna adalah ikan karnivor. Mereka memakan ikan kecil, cumi-cumi, dan krustasea lainnya. Mereka juga memangsa plankton dan organisme kecil lainnya. \nCiri fisik tuna dapat bervariasi tergantung pada spesiesnya, tetapi secara umum, tuna memiliki tubuh yang panjang dan silindris, sirip ekor yang besar, dan punggung yang tinggi. Warna tubuhnya dapat berkisar dari biru hingga perak atau kecokelatan. Tuna dapat dikonsumsi dan sangat populer dalam hidangan sushi dan sashimi, serta sering ditemukan dalam kalengan dan berbagai hidangan laut. Tuna juga sering diolah menjadi steak tuna panggang atau diasinkan. Tuna merupakan sumber protein hewani yang baik. Asam Lemak Omega-3 nya baik untuk kesehatan jantung dan otak. Tuna juga kaya akan vitamin dan mineral, termasuk vitamin D, vitamin B12, selenium, dan fosfor. Konsumsi tuna dikaitkan dengan manfaat kesehatan, seperti mendukung kesehatan jantung dan mengurangi risiko penyakit jantung.",
+    "image": "https://storage.cloud.google.com/image_ikan/fishlab_dataset/Tuna/tuna%20(1).jpg?authuser=2"
+  }
+]
